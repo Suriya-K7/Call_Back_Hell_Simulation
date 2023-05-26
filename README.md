@@ -6,9 +6,9 @@
 
 ## Created task deployed on below links :
 
-<a href="https://day-17-task-call-back-hell.netlify.app/" target="_blank">Deployed in Netlify</a> link need to add
+<a href="https://day-17-task-call-back-hell.netlify.app/">Deployed in Netlify</a>
 
-<a href="https://suriya-k7.github.io/Guvi_Day_17_task_Call_Back_Hell/" target="_blank">Deployed in Github.io</a> link need to add
+<a href="https://suriya-k7.github.io/Guvi_Day_17_task_Call_Back_Hell/">Deployed in Github.io</a>
 
 <i>Note: Constraints, not to use named function, set interval, incursion, IIFE & looping.</i>
 
