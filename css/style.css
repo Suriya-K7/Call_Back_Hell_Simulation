@@ -30,9 +30,14 @@ p.zoom {
 @keyframes zoom {
   0% {
     scale: 5;
+    opacity: 1;
+  }
+  80% {
+    opacity: 0;
   }
   100% {
     scale: 0;
+    opacity: 0;
   }
 }
 @keyframes zoomInfinity {
